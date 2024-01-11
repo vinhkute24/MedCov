@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "990649896463",
+    "firebase_url": "https://my-first-project-2-35909-default-rtdb.firebaseio.com",
+    "project_id": "my-first-project-2-35909",
+    "storage_bucket": "my-first-project-2-35909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990649896463:android:51f03a144ad6a0027fdd7a",
+        "android_client_info": {
+          "package_name": "com.LastDance.MedCov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990649896463-73acl5dq0a6rn5ocsucn8fn6ah7p6eas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsLSe3z1GVuwiMK1bTOYEqMLybKN9K7P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990649896463-73acl5dq0a6rn5ocsucn8fn6ah7p6eas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990649896463:android:f0e1f5dd59cd779f7fdd7a",
+        "android_client_info": {
+          "package_name": "com.example.dtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990649896463-73acl5dq0a6rn5ocsucn8fn6ah7p6eas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsLSe3z1GVuwiMK1bTOYEqMLybKN9K7P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990649896463-73acl5dq0a6rn5ocsucn8fn6ah7p6eas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

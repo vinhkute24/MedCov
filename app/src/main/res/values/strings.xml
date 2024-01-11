@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">MedCov</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="header">MedCov</string>
+    <string name="register">register</string>
+    <string name="login">Login</string>
+
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="news">News</string>
+
+    <string name="appointment">Appointment</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="doctor">Log in as doctor</string>
+    <string name="patient">Log in as patient</string>
+
+    <string-array name="doctor_specialties">
+        <item>Mouth and Dental Health</item>
+        <item>Anesthesiology and Reanimation</item>
+        <item>Nutrition and Dietetics</item>
+        <item>Brain and Nerve Surgery</item>
+        <item>Brain and Nerve Surgery</item>
+        <item>Pediatric Endocrinology</item>
+        <item>Pediatric Infectious Diseases</item>
+        <item>Pediatric Gastroenterology</item>
+        <item>Pediatric Hematology</item>
+        <item>Pediatric Cardiology</item>
+        <item>Pediatric Nephrology</item>
+        <item>Pediatric Psychiatry</item>
+        <item>Pediatrics</item>
+        <item>Pediatric Urology</item>
+        <item>Dermatology</item>
+        <item>Endocrinology and Metabolic Diseases</item>
+        <item>Physical Medicine and Rehabilitation</item>
+        <item>Gastroenterology</item>
+        <item>General Surgery</item>
+        <item>Genetics</item>
+        <item>Thoracic Surgery</item>
+        <item>Chest Diseases</item>
+        <item>Ophthalmology</item>
+        <item>Hematology</item>
+        <item>Internal Medicine</item>
+        <item>Immunology</item>
+        <item>Gynecologic Oncology</item>
+        <item>Obstetrics and Gynecology</item>
+        <item>Cardiovascular Surgery</item>
+        <item>Cardiology</item>
+        <item>Otorhinolaryngology</item>
+        <item>Microbiology</item>
+        <item>Nephrology</item>
+        <item>Neonatology</item>
+        <item>Neurology</item>
+        <item>Neurosurgery</item>
+        <item>Orthopedics and Traumatology</item>
+        <item>Plastic, Reconstructive, and Aesthetic Surgery</item>
+        <item>Psychiatry</item>
+        <item>Radiation Oncology</item>
+        <item>Radiology</item>
+        <item>Medical Biochemistry</item>
+        <item>Medical Genetics</item>
+        <item>Medical Microbiology</item>
+        <item>Medical Oncology</item>
+        <item>Medical Pathology</item>
+        <item>Medical Pharmacology</item>
+        <item>Urology</item>
+    </string-array>
+
+</resources>
